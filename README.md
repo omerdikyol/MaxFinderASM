@@ -29,7 +29,7 @@ The project consists of three main files:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MaxFinderASM.git
+   git clone https://github.com/omerdikyol/MaxFinderASM.git
    cd MaxFinderASM
    ```
 2. Compile and run the testbench using Icarus Verilog:
