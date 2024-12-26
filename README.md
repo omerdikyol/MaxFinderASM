@@ -39,10 +39,10 @@ The project consists of three main files:
    ```
 3. Observe the simulation output to verify the maximum value found by the assembly program.
 
-### Example Output
+## Example Output
 The simulation will output the maximum value from the list of numbers. For the provided numbers in **`max_of_10_numbers.asm`**, the expected output is **`16`**.
 
-### License
+## License
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as needed.
 
 
